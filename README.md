@@ -1,0 +1,2 @@
+# Fused-Multiplier-Adder_BFLOAT16
+This repository contains a Verilog implementation of a bfloat16 (BF16) fused multiplier-adder, designed and verified on the Basys 3 FPGA board. The BF16-FMA module efficiently performs fused multiply-add operations, crucial in various numerical applications. The code is optimized for FPGA architecture, providing a balance of performance and resource utilization. The accompanying README guides users through the project, offering insights into design principles, implementation details, and FPGA deployment
